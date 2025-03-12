@@ -1,7 +1,26 @@
 # TCS Retail Store Data Analysis Project on Tableau
 Here they provide Retail Stores Data and given some scenarion based tasks.
 
+## Here the below dataset provided by TCS
+- <a href="
+https://github.com/TAK-da007/TCS-Project/blob/main/Online%20Retail%20Data%20Set.xlsx">Online Retail Dataset<\a>
+
+
+
+## The following are the tasks given by TCS
 ## 🎯 Task 1:- The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+
+- Dashboard Interaction <a href="https://github.com/TAK-da007/TCS-Project/blob/main/Images/Revenue%20by%20month-2011.jpg"> Revenue by month of the Year 2011<\a>
+
+## Dashboard
+![Revenue by month-2011](https://github.com/user-attachments/assets/6a4bdd2c-a8aa-41f4-b8b4-14d94a307061)
+
+## Explanation
+-The first 8 months had stable monthly revenues with an average of $685,000.
+-We had a significant increase in revenue from September with the revenue peaking at $1.5 million in November & an average of 21.81%.
+-The Revenue trend from August to December demonstrates how seasonality affects retail store sales.
+![Uploading image.png…]()
+
 
 ## 🎯 Project Overview
 This project is part of the **TCS Retail Store Data Analytics Virtual Experience Program** by **Forage**. The goal was to analyze retail data, uncover insights, and deliver data-driven recommendations to optimize business performance.
